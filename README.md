@@ -1,5 +1,6 @@
 # Rohlik-Orders-Forecasting
 ![image](https://github.com/user-attachments/assets/f04bb318-181f-4136-8b47-5f0a847f0810)
+
 Overview
 Rohlik Group, a leading European e-grocery innovator, is revolutionising the food retail industry. We operate across 11 warehouses in Czech Republic, Germany, Austria, Hungary, and Romania.
 

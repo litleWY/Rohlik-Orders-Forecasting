@@ -8,3 +8,5 @@ Our challenge focuses on predicting the number of orders (grocery deliveries) at
 Description
 Why This Matters
 Accurate order forecasts are crucial for planning process, impacting workforce allocation, delivery logistics, inventory management, and supply chain efficiency. By optimizing forecasts, we can minimize waste and streamline operations, making our e-grocery services more sustainable and efficient.
+
+The datasets could be downloaded at https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge/data
